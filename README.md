@@ -139,7 +139,7 @@ $ cat ~/achievements.log
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Jay-Jay-Tee&theme=matrix&no-frame=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Jay-Jay-Tee)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
