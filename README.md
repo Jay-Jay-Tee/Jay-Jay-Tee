@@ -31,7 +31,7 @@ $ whoami
 ```
 ```
 Joshua Jacob Thomas
-CSE Freshman @ NIT Calicut (2025–2029) | CGPA: 9.82/10
+CSE Freshman @ NIT Calicut (2025-2029) | CGPA: 9.82/10
 Full-Stack Engineer · AI/ML Builder · Competitive Programmer · FOSS Enthusiast
 Building at the intersection of AI research and systems engineering.
 I care about making intelligent systems that are reliable - not just accurate.
@@ -91,7 +91,7 @@ $ ls -la ~/projects/ --sort=impact
 | 02 | **LLM Activation Steering** | Contrastive activation steering without weight updates - layer-wise hidden-state injection to control LLM uncertainty at inference time | `PyTorch` `Transformers` | [↗](https://github.com/Jay-Jay-Tee/llm-activation-steering) |
 | 03 | **Grid-X** | Distributed compute mesh - coordinator-worker architecture, isolated Python job execution across LAN nodes, TypeScript SDK | `FastAPI` `WebSockets` `Docker` `TS` | [↗](https://github.com/Jay-Jay-Tee/the-grid-x) |
 | 04 | **Interactive ML Portfolio** | 6 end-to-end ML models with live canvas demos - from-scratch autograd (MicroGrad), MNIST digit classifier, GPT-2 modules | `PyTorch` `Sklearn` `HTML5 Canvas` | [↗](https://github.com/Jay-Jay-Tee/gdsc-ml-tasks-portfolio) |
-| 05 | **GeneScope** | Genetic risk assessment for 10 diseases - transparent weighted model (Family 40% / Lifestyle 35% / Lab 25%), Class I–IV stratification | `FastAPI` `React` `Vite` | [↗](https://github.com/Jay-Jay-Tee/genescope) |
+| 05 | **GeneScope** | Genetic risk assessment for 10 diseases - transparent weighted model (Family 40% / Lifestyle 35% / Lab 25%), Class I-IV stratification | `FastAPI` `React` `Vite` | [↗](https://github.com/Jay-Jay-Tee/genescope) |
 
 ---
 
@@ -170,12 +170,12 @@ $ cat ~/.local/share/experience/timeline
 ```
 
 ```
-Feb 2026 – Mar 2026 | Web Developer Intern @ TEDx NIT Calicut
+Feb 2026 - Mar 2026 | Web Developer Intern @ TEDx NIT Calicut
   → Animated speaker cards (React/TS, GSAP, 3D tilt, flip-to-bio, glow effects)
   → Reusable modal system with backdrop blur, direction-aware carousel animations
   → Dynamic countdown with Framer Motion, glassmorphism UI, particle backdrop
 
-Sep 2025 – Nov 2025 | PR & Content Executive @ Tathva NIT Calicut
+Sep 2025 - Nov 2025 | PR & Content Executive @ Tathva NIT Calicut
   → Student outreach to drive registrations and workshop participation
   → Communication drafting for event updates and conflict resolution
 ```
