@@ -127,6 +127,7 @@ $ cat ~/achievements.log
 ```
 
 ```
+[NOW]  NIT Calicut        - CGPA 9.82/10 (Ongoing)
 [2026] nitCTF '25         - 1st Place (Team)  · Cyber Security Club, NITC
 [2026] Code.INIT() '26    - 4th Place (Team)  · CSEA Hackathon, NITC · built Grid-X
 [2025] AISSCE AIR 1       - 499/500           · Subject Topper: CS, Maths, Chemistry, English
@@ -134,7 +135,6 @@ $ cat ~/achievements.log
 [2025] JEE Main           - 99.749 Percentile
 [2025] JEE Advanced       - AIR 2475
 [2023] AISSE AIR 2        - 499/500 (Best 5)
-[NOW]  NIT Calicut        - CGPA 9.82/10 (Ongoing)
 ```
 
 <div align="center">
