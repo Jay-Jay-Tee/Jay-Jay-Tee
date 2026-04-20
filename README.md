@@ -51,7 +51,7 @@ $ cat /etc/interests
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ```bash
 $ cat ~/.config/stack
@@ -79,7 +79,7 @@ $ cat ~/.config/stack
 
 ---
 
-## 🔥 Top Projects
+## Top Projects
 
 ```bash
 $ ls -la ~/projects/ --sort=impact
@@ -120,7 +120,7 @@ $ gh stats --user Jay-Jay-Tee --verbose
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 ```bash
 $ cat ~/achievements.log
@@ -145,7 +145,7 @@ $ cat ~/achievements.log
 
 ---
 
-## 🌐 Open Source & Community
+## Open Source & Community
 
 ```bash
 $ cat /etc/clubs && cat /etc/oss
@@ -163,7 +163,7 @@ $ cat /etc/clubs && cat /etc/oss
 
 ---
 
-## 💼 Experience
+## Experience
 
 ```bash
 $ cat ~/.local/share/experience/timeline
@@ -182,7 +182,7 @@ Sep 2025 – Nov 2025 | PR & Content Executive @ Tathva NIT Calicut
 
 ---
 
-## 🖥️ Terminal
+## Terminal
 
 ```bash
 $ ./joshua --interactive
