@@ -1,5 +1,5 @@
 <!-- ============================================================
-     Joshua Jacob Thomas — GitHub Profile README
+     Joshua Jacob Thomas - GitHub Profile README
      Theme: Terminal / Hacker
      ============================================================ -->
 
@@ -34,7 +34,7 @@ Joshua Jacob Thomas
 CSE Freshman @ NIT Calicut (2025–2029) | CGPA: 9.82/10
 Full-Stack Engineer · AI/ML Builder · Competitive Programmer · FOSS Enthusiast
 Building at the intersection of AI research and systems engineering.
-I care about making intelligent systems that are reliable — not just accurate.
+I care about making intelligent systems that are reliable - not just accurate.
 ```
 
 ```bash
@@ -87,11 +87,11 @@ $ ls -la ~/projects/ --sort=impact
 
 | # | Project | What it does | Stack | Link |
 |---|---------|-------------|-------|------|
-| 01 | **MediTrack** | Secure medical timeline — voice-to-note, Qdrant semantic retrieval (384-dim), Groq Llama 3.3 70B analysis, doctor-ready PDF export | `Flask` `Qdrant` `Groq` `ReportLab` | [↗](https://github.com/Jay-Jay-Tee/meditrack) |
-| 02 | **LLM Activation Steering** | Contrastive activation steering without weight updates — layer-wise hidden-state injection to control LLM uncertainty at inference time | `PyTorch` `Transformers` | [↗](https://github.com/Jay-Jay-Tee/llm-activation-steering) |
-| 03 | **Grid-X** | Distributed compute mesh — coordinator-worker architecture, isolated Python job execution across LAN nodes, TypeScript SDK | `FastAPI` `WebSockets` `Docker` `TS` | [↗](https://github.com/Jay-Jay-Tee/the-grid-x) |
-| 04 | **Interactive ML Portfolio** | 6 end-to-end ML models with live canvas demos — from-scratch autograd (MicroGrad), MNIST digit classifier, GPT-2 modules | `PyTorch` `Sklearn` `HTML5 Canvas` | [↗](https://github.com/Jay-Jay-Tee/gdsc-ml-tasks-portfolio) |
-| 05 | **GeneScope** | Genetic risk assessment for 10 diseases — transparent weighted model (Family 40% / Lifestyle 35% / Lab 25%), Class I–IV stratification | `FastAPI` `React` `Vite` | [↗](https://github.com/Jay-Jay-Tee/genescope) |
+| 01 | **MediTrack** | Secure medical timeline - voice-to-note, Qdrant semantic retrieval (384-dim), Groq Llama 3.3 70B analysis, doctor-ready PDF export | `Flask` `Qdrant` `Groq` `ReportLab` | [↗](https://github.com/Jay-Jay-Tee/meditrack) |
+| 02 | **LLM Activation Steering** | Contrastive activation steering without weight updates - layer-wise hidden-state injection to control LLM uncertainty at inference time | `PyTorch` `Transformers` | [↗](https://github.com/Jay-Jay-Tee/llm-activation-steering) |
+| 03 | **Grid-X** | Distributed compute mesh - coordinator-worker architecture, isolated Python job execution across LAN nodes, TypeScript SDK | `FastAPI` `WebSockets` `Docker` `TS` | [↗](https://github.com/Jay-Jay-Tee/the-grid-x) |
+| 04 | **Interactive ML Portfolio** | 6 end-to-end ML models with live canvas demos - from-scratch autograd (MicroGrad), MNIST digit classifier, GPT-2 modules | `PyTorch` `Sklearn` `HTML5 Canvas` | [↗](https://github.com/Jay-Jay-Tee/gdsc-ml-tasks-portfolio) |
+| 05 | **GeneScope** | Genetic risk assessment for 10 diseases - transparent weighted model (Family 40% / Lifestyle 35% / Lab 25%), Class I–IV stratification | `FastAPI` `React` `Vite` | [↗](https://github.com/Jay-Jay-Tee/genescope) |
 
 ---
 
@@ -127,14 +127,14 @@ $ cat ~/achievements.log
 ```
 
 ```
-[2026] nitCTF '25         — 1st Place (Team)  · Cyber Security Club, NITC
-[2026] Code.INIT() '26    — 4th Place (Team)  · CSEA Hackathon, NITC · built Grid-X
-[2025] AISSCE AIR 1       — 499/500           · Subject Topper: CS, Maths, Chemistry, English
-[2025] KEAM               — Rank 1            · Kerala Engineering Architecture Medical Examination
-[2025] JEE Main           — 99.749 Percentile
-[2025] JEE Advanced       — AIR 2475
-[2023] AISSE AIR 2        — 499/500 (Best 5)
-[NOW]  NIT Calicut        — CGPA 9.82/10 (Ongoing)
+[2026] nitCTF '25         - 1st Place (Team)  · Cyber Security Club, NITC
+[2026] Code.INIT() '26    - 4th Place (Team)  · CSEA Hackathon, NITC · built Grid-X
+[2025] AISSCE AIR 1       - 499/500           · Subject Topper: CS, Maths, Chemistry, English
+[2025] KEAM               - Rank 1            · Kerala Engineering Architecture Medical Examination
+[2025] JEE Main           - 99.749 Percentile
+[2025] JEE Advanced       - AIR 2475
+[2023] AISSE AIR 2        - 499/500 (Best 5)
+[NOW]  NIT Calicut        - CGPA 9.82/10 (Ongoing)
 ```
 
 <div align="center">
@@ -152,13 +152,13 @@ $ cat /etc/clubs && cat /etc/oss
 ```
 
 ```
-[ACTIVE] FOSSCell NITC               — Free & Open-Source Software Cell
-[ACTIVE] CP Hub NITC                 — Competitive Programming
-[ACTIVE] Cyber Security Club NITC    — AI Exploitation Specialization
-[ACTIVE] GDSC NITC                   — AI/ML & Marketing Member
+[ACTIVE] FOSSCell NITC               - Free & Open-Source Software Cell
+[ACTIVE] CP Hub NITC                 - Competitive Programming
+[ACTIVE] Cyber Security Club NITC    - AI Exploitation Specialization
+[ACTIVE] GDSC NITC                   - AI/ML & Marketing Member
 [ACTIVE] IEEE Student Branch NITC
 [ACTIVE] DebSoc NITC
-[ACTIVE] Centre for Career Development NITC  — Placement Representative
+[ACTIVE] Centre for Career Development NITC  - Placement Representative
 ```
 
 ---
@@ -211,7 +211,7 @@ $ ./joshua --interactive
 <div align="center">
 
 ```
-> "Building intelligent systems that are reliable — not just accurate."
+> "Building intelligent systems that are reliable - not just accurate."
 ```
 
 **Joshua Jacob Thomas** · NIT Calicut '29 · Kozhikode, IN
