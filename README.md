@@ -33,7 +33,7 @@ $ whoami
 Joshua Jacob Thomas
 CSE Freshman @ NIT Calicut (2025-2029) | CGPA: 9.82/10
 Full-Stack Engineer · AI/ML Builder · Competitive Programmer · FOSS Enthusiast
-Building at the intersection of AI research and systems engineering.
+Building at the intersection of AI research and full-stack development.
 I care about making intelligent systems that are reliable - not just accurate.
 ```
 
@@ -42,8 +42,7 @@ $ cat /etc/interests
 ```
 ```
 [*] Mechanistic Interpretability & AI Security
-[*] Modern ML Paradigms & Deep Learning
-[*] Scalable Distributed Systems
+[*] Modern AI/ML Paradigms & Deep Learning
 [*] Competitive Programming & Algorithms
 [*] Free & Open-Source Software
 [*] Full-Stack Engineering
