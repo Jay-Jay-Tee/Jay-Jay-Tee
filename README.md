@@ -202,7 +202,7 @@ $ ./joshua --interactive
   - FOSSCell member who actually reads the source code.
 
 > echo $STATUS
-  Open to internships, research, and cool projects →
+  Open to internships, research, and cool projects!
 ```
 
 ---
