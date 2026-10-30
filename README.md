@@ -43,9 +43,10 @@ I care about making intelligent systems that are reliable - not just accurate.
 $ cat /etc/interests
 ```
 ```
-[*] AI & ML Research
+[*] AI & ML Research (incl. Mechanistic Interpretability)
 [*] Experimenting with Agents
 [*] Building and Breaking Software
+[*] Full-Stack Engineering
 [*] Security & CTFs
 [*] Competitive Programming
 [*] Open Source
