@@ -34,8 +34,8 @@ $ whoami
 ```
 Joshua Jacob Thomas
 CS Freshman @ NUS | BComp Computer Science, NUS College (Class of '30)
-Full-Stack Engineer · AI/ML Builder · Competitive Programmer · FOSS Enthusiast
-Mostly building multi-agent AI systems and poking at how they break.
+AI/ML Research · Agents · Full-Stack · Security & CTFs
+I like experimenting with agents, building software, and then trying to break it.
 I care about making intelligent systems that are reliable - not just accurate.
 ```
 
@@ -43,13 +43,12 @@ I care about making intelligent systems that are reliable - not just accurate.
 $ cat /etc/interests
 ```
 ```
-[*] Agentic AI & Multi-Agent Systems
-[*] Machine Learning
-[*] Mechanistic Interpretability
-[*] AI Security & CTFs
-[*] Competitive Programming & Algorithms
-[*] Full-Stack Engineering
-[*] Free & Open-Source Software
+[*] AI & ML Research
+[*] Experimenting with Agents
+[*] Building and Breaking Software
+[*] Security & CTFs
+[*] Competitive Programming
+[*] Open Source
 ```
 
 ---
