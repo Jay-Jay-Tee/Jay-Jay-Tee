@@ -14,7 +14,7 @@
  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Full-Stack+%7C+AI%2FML+%7C+Competitive+Programmer;CS+%40+NUS+%7C+Class+of+%2730;Reliable+systems%2C+not+just+accurate+ones.;AISSCE+AIR+1+%7C+KEAM+Rank+1+%7C+JEE+Adv+AIR+2475;Tech+Lead+%40+NUS+Students%27+Computing+Club)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Full-Stack+%7C+AI%2FML+%7C+Competitive+Programmer;CS+%40+NUS+%7C+Class+of+%2730;Trying+to+figure+out+why+models+do+what+they+do.;AISSCE+AIR+1+%7C+KEAM+Rank+1+%7C+JEE+Adv+AIR+2475;Tech+Lead+%40+NUS+Students%27+Computing+Club)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jay--jay--tee.github.io-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://jay-jay-tee.github.io/the-resume-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jayjaytee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayjaytee)
@@ -36,7 +36,7 @@ Joshua Jacob Thomas
 CS Freshman @ NUS | BComp Computer Science, NUS College (Class of '30)
 AI/ML Research · Agents · Full-Stack · Security & CTFs
 I like experimenting with agents, building software, and then trying to break it.
-I care about making intelligent systems that are reliable - not just accurate.
+Currently: trying to figure out why models do what they do.
 ```
 
 ```bash
@@ -217,7 +217,7 @@ $ ./joshua --interactive
 <div align="center">
 
 ```
-> "Building intelligent systems that are reliable - not just accurate."
+> "Trying to figure out why models do what they do."
 ```
 
 **Joshua Jacob Thomas** · National University of Singapore '30 · Singapore
