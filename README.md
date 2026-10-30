@@ -14,10 +14,12 @@
  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Full-Stack+%7C+AI%2FML+%7C+Competitive+Programmer;CSE+%40+NIT+Calicut+%E2%80%94+CGPA+9.82%2F10;Reliable+systems%2C+not+just+accurate+ones.;AISSCE+AIR+1+%7C+KEAM+Rank+1+%7C+JEE+Adv+AIR+2475;FOSSCell+%7C+CP+Hub+%7C+CySec+%7C+GDSC+%40+NITC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Full-Stack+%7C+AI%2FML+%7C+Competitive+Programmer;CS+%40+NUS+%7C+Class+of+%2730;Reliable+systems%2C+not+just+accurate+ones.;AISSCE+AIR+1+%7C+KEAM+Rank+1+%7C+JEE+Adv+AIR+2475;Tech+Lead+%40+NUS+Students%27+Computing+Club)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jay--jay--tee.github.io-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://jay-jay-tee.github.io/the-resume-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jayjaytee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayjaytee)
+[![X](https://img.shields.io/badge/X-@__jayjaytee__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_jayjaytee_)
+[![Blog](https://img.shields.io/badge/Blog-The_Ethereal_Advocate-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://theetherealadvocate.wordpress.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Jay--Jay--Tee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jay-Jay-Tee)
 [![Email](https://img.shields.io/badge/Email-joshuajacobthomas1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuajacobthomas1@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Jay-Jay-Tee&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
@@ -31,9 +33,9 @@ $ whoami
 ```
 ```
 Joshua Jacob Thomas
-CSE Freshman @ NIT Calicut (2025-2029) | CGPA: 9.82/10
+CS Freshman @ NUS | BComp Computer Science, NUS College (Class of '30)
 Full-Stack Engineer · AI/ML Builder · Competitive Programmer · FOSS Enthusiast
-Building at the intersection of AI research and full-stack development.
+Mostly building multi-agent AI systems and poking at how they break.
 I care about making intelligent systems that are reliable - not just accurate.
 ```
 
@@ -41,11 +43,13 @@ I care about making intelligent systems that are reliable - not just accurate.
 $ cat /etc/interests
 ```
 ```
-[*] Mechanistic Interpretability & AI Security
-[*] Modern AI/ML Paradigms & Deep Learning
+[*] Agentic AI & Multi-Agent Systems
+[*] Machine Learning
+[*] Mechanistic Interpretability
+[*] AI Security & CTFs
 [*] Competitive Programming & Algorithms
-[*] Free & Open-Source Software
 [*] Full-Stack Engineering
+[*] Free & Open-Source Software
 ```
 
 ---
@@ -86,11 +90,15 @@ $ ls -la ~/projects/ --sort=impact
 
 | # | Project | What it does | Stack | Link |
 |---|---------|-------------|-------|------|
-| 01 | **MediTrack** | Secure medical timeline - voice-to-note, Qdrant semantic retrieval (384-dim), Groq Llama 3.3 70B analysis, doctor-ready PDF export | `Flask` `Qdrant` `Groq` `ReportLab` | [↗](https://github.com/Jay-Jay-Tee/meditrack) |
+| 01 | **CTF Automator** | Planner-executor multi-agent system that works through CTF challenges, backed by hybrid RAG | `Python` `LLM Agents` `RAG` | [↗](https://github.com/Jay-Jay-Tee/NITCTF_AGENT) |
 | 02 | **LLM Activation Steering** | Contrastive activation steering without weight updates - layer-wise hidden-state injection to control LLM uncertainty at inference time | `PyTorch` `Transformers` | [↗](https://github.com/Jay-Jay-Tee/llm-activation-steering) |
-| 03 | **Grid-X** | Distributed compute mesh - coordinator-worker architecture, isolated Python job execution across LAN nodes, TypeScript SDK | `FastAPI` `WebSockets` `Docker` `TS` | [↗](https://github.com/Jay-Jay-Tee/the-grid-x) |
-| 04 | **Interactive ML Portfolio** | 6 end-to-end ML models with live canvas demos - from-scratch autograd (MicroGrad), MNIST digit classifier, GPT-2 modules | `PyTorch` `Sklearn` `HTML5 Canvas` | [↗](https://github.com/Jay-Jay-Tee/gdsc-ml-tasks-portfolio) |
-| 05 | **GeneScope** | Genetic risk assessment for 10 diseases - transparent weighted model (Family 40% / Lifestyle 35% / Lab 25%), Class I-IV stratification | `FastAPI` `React` `Vite` | [↗](https://github.com/Jay-Jay-Tee/genescope) |
+| 03 | **MediTrack** | Secure medical timeline - voice-to-note, Qdrant semantic retrieval (384-dim), Groq Llama 3.3 70B analysis, doctor-ready PDF export | `Flask` `Qdrant` `Groq` `ReportLab` | [↗](https://github.com/Hackathons-ULT/meditrack) |
+| 04 | **Wiki MCP** | MCP server that lets an AI agent read and edit pages on the NITC MediaWiki in plain language, plus a one-command installer | `MCP` `MediaWiki` | [↗](https://github.com/Wiki-NITC/wiki-mcp) |
+| 05 | **Grid-X** | Distributed compute mesh - coordinator-worker architecture, isolated Python job execution across LAN nodes, TypeScript SDK | `FastAPI` `WebSockets` `Docker` `TS` | [↗](https://github.com/Hackathons-ULT/the-grid-x) |
+| 06 | **Interactive ML Portfolio** | 6 end-to-end ML models with live canvas demos - from-scratch autograd (MicroGrad), MNIST digit classifier, GPT-2 modules | `PyTorch` `Sklearn` `HTML5 Canvas` | [↗](https://github.com/Jay-Jay-Tee/gdsc-ml-tasks-portfolio) |
+| 07 | **GeneScope** | Genetic risk assessment for 10 diseases - transparent weighted model (Family 40% / Lifestyle 35% / Lab 25%), Class I-IV stratification | `FastAPI` `React` `Vite` | [↗](https://github.com/Hackathons-ULT/genescope) |
+
+More hackathon builds live under [Hackathons-ULT](https://github.com/Hackathons-ULT).
 
 ---
 
@@ -126,7 +134,7 @@ $ cat ~/achievements.log
 ```
 
 ```
-[NOW]  NIT Calicut        - CGPA 9.82/10 (Ongoing)
+[NOW]  NUS                - BComp Computer Science, NUS College (AY2026/27)
 [2026] nitCTF '25         - 1st Place (Team)  · Cyber Security Club, NITC
 [2026] Code.INIT() '26    - 4th Place (Team)  · CSEA Hackathon, NITC · built Grid-X
 [2025] AISSCE AIR 1       - 499/500           · Subject Topper: CS, Maths, Chemistry, English
@@ -151,13 +159,12 @@ $ cat /etc/clubs && cat /etc/oss
 ```
 
 ```
-[ACTIVE] FOSSCell NITC               - Free & Open-Source Software Cell
-[ACTIVE] CP Hub NITC                 - Competitive Programming
-[ACTIVE] Cyber Security Club NITC    - AI Exploitation Specialization
-[ACTIVE] GDSC NITC                   - AI/ML & Marketing Member
-[ACTIVE] IEEE Student Branch NITC
-[ACTIVE] DebSoc NITC
-[ACTIVE] Centre for Career Development NITC  - Placement Representative
+[ACTIVE] NUS Students' Computing Club  - Tech Lead
+[ACTIVE] NUS Computing AI Society      - Tech Executive
+[ACTIVE] Singapore Computer Society    - Student Chapter Member
+[ACTIVE] Hackathons-ULT                - Hackathon projects
+[PAST]   Wiki-NITC                     - Admin, MediaWiki MCP tooling
+[PAST]   NIT Calicut                   - FOSSCell, CP Hub, Cyber Security Club, GDSC, IEEE SB, DebSoc
 ```
 
 ---
@@ -213,7 +220,7 @@ $ ./joshua --interactive
 > "Building intelligent systems that are reliable - not just accurate."
 ```
 
-**Joshua Jacob Thomas** · NIT Calicut '29 · Kozhikode, IN
+**Joshua Jacob Thomas** · National University of Singapore '30 · Singapore
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=flat-square&logo=githubpages&logoColor=black)](https://jay-jay-tee.github.io/the-resume-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jayjaytee)
