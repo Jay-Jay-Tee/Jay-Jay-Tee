@@ -217,7 +217,7 @@ $ ./joshua --interactive
 <div align="center">
 
 ```
-> "Always down for agents, research, CTFs, hackathons, projects, internships, or just a fun chat."
+> "Always down for agents, research, hackathons, CTFs, projects, internships, or just a fun chat."
 ```
 
 **Joshua Jacob Thomas** · National University of Singapore '30 · Singapore
